@@ -1,0 +1,10 @@
+{
+  "leituras": {
+    "-OcrXZazOPcC3RqdQg_-": "{\"voltage\":120.10,\"current\":0.21,\"power\":14.80,\"energy\":0.14}",
+    "-OcrYjHBPJcjPK-so-_J": "{\"voltage\":120.50,\"current\":0.21,\"power\":14.90,\"energy\":0.14}",
+    "-OcrZtkzM4j2aTzYR0br": "{\"voltage\":120.70,\"current\":0.21,\"power\":14.90,\"energy\":0.14}",
+    "-Ocra3gChdyoVGRj6urs": "{\"voltage\":120.90,\"current\":0.21,\"power\":15.00,\"energy\":0.14}",
+    "-OcrbE9SuKXDbriclRfF": "{\"voltage\":121.20,\"current\":0.21,\"power\":15.00,\"energy\":0.14}",
+    "-OcrcOeXa5G2Wx9R8SmX": "{\"voltage\":120.50,\"current\":0.21,\"power\":15.00,\"energy\":0.14}"
+  }
+}
